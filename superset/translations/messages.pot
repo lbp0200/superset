@@ -3928,3 +3928,6 @@ msgstr ""
 msgid "Saved Queries"
 msgstr ""
 
+#: superset/views/core.py:419
+msgid "List Charts"
+msgstr ""

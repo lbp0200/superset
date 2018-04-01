@@ -2601,8 +2601,11 @@ msgstr "看板"
 #: superset/assets/javascripts/profile/components/CreatedContent.jsx:61
 #: superset/assets/javascripts/profile/components/Favorites.jsx:62 superset/views/core.py:408
 #: superset/views/core.py:477
-msgid "Slices"
-msgstr "切片"
+msgid "Charts"
+msgstr "图表"
+
+msgid "Chart"
+msgstr "图表"
 
 #: superset/assets/javascripts/profile/components/Favorites.jsx:34
 msgid "No favorite slices yet, go click on stars!"
@@ -3281,20 +3284,20 @@ msgid "Security"
 msgstr "安全"
 
 #: superset/views/core.py:335
-msgid "List Slices"
-msgstr "切片列表"
+msgid "List Charts"
+msgstr "图表列表"
 
 #: superset/views/core.py:336
-msgid "Show Slice"
-msgstr "显示切片"
+msgid "Show Charts"
+msgstr "显示图表"
 
 #: superset/views/core.py:337
-msgid "Add Slice"
-msgstr "添加切片"
+msgid "Add Charts"
+msgstr "添加图表"
 
 #: superset/views/core.py:338
-msgid "Edit Slice"
-msgstr "编辑切片"
+msgid "Edit Charts"
+msgstr "编辑图表"
 
 #: superset/views/core.py:359
 msgid ""
