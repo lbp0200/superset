@@ -10,5 +10,30 @@ pylint
 pyyaml
 redis
 statsd
+flask-appbuilder
+flask_compress
+flask_migrate
+flask_cache
+future
+bleach
+celery
+markdown
+numpy
+pandas
+parsedatetime
+pydruid
+sqlparse
+sqlalchemy_utils==0.32.21
+boto3
+unicodecsv
+humanize
+python-geohash
+geopy
+polyline
+simplejson
+cryptography
+unidecode
+flask_script
+
 # Also install everything we need to build Sphinx docs
 -r dev-reqs-for-docs.txt
